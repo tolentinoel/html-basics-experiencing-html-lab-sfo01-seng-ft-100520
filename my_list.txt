@@ -1,6 +1,8 @@
-<li>"Zebbiana"</li>
-<li>"Sa susunod na lang"</li>
-<li>"Narda"</li>
-<li>"Sorry Na"</li>
-<li>"Mr. Suave"</li>
-<li>"Harana"</li>
+
+
+"Zebbiana"
+"Sa susunod na lang"
+"Narda"
+"Sorry Na"
+"Mr. Suave"
+"Harana"
